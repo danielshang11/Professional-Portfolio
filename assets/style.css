@@ -139,18 +139,6 @@ nav a:hover {
 .aside-section-right p {
     margin-bottom: 20px;
 }
-.main-container{
-    flex-wrap: wrap;
-    flex-direction: row;
-    display: flex;
-    justify-content: center;
-}
-
-.item-image {
-    flex-basis: calc(50% - 1em);
-    display: flex;
-    align-items:center;
-}
 
 
 .works-wrapper,
